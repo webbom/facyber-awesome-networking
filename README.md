@@ -109,6 +109,10 @@ by James Forshaw.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - A commercial SSH and Telnet client and terminal emulator by VanDyke Software.
 * [WinBox](https://mikrotik.com/download) - Official MikroTik GUI software for administration of MikroTik RouterOS.
 
+### DDoS Detection and Mitigation
+
+* [ftagent-lite](https://github.com/Flowtriq/ftagent-lite) - Lightweight open-source DDoS traffic monitor for Linux. Per-packet inspection, detects attack types in real time. MIT license.
+
 ### Other tools
 
 * [Nmap](https://nmap.org/) - A free and open source software for network discovery and security auditing.
