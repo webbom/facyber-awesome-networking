@@ -115,6 +115,7 @@ by James Forshaw.
 * [Nmap](https://nmap.org/) - A free and open source software for network discovery and security auditing.
 * [Zenmap](https://nmap.org/zenmap/) - The official Nmap Security Scanner GUI.
 * [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source software for creating network diagrams and topologies.
+* [idle-less](https://github.com/tvup/idle-less) - A Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN (WoL), enabling energy-efficient homelab setups by letting machines power down when idle.
 
 ## Certifications
 
